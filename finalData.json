@@ -1,0 +1,89 @@
+[
+    {
+        "topicUrls": "https://github.com/topics/nativescript",
+        "projects": [
+            {
+                "projectUrls": "https://github.com/NativeScript/NativeScript"
+            },
+            {
+                "projectUrls": "https://github.com/nativescript-vue/nativescript-vue"
+            },
+            {
+                "projectUrls": "https://github.com/alibaba/LuaViewSDK"
+            },
+            {
+                "projectUrls": "https://github.com/NathanWalker/angular-seed-advanced"
+            },
+            {
+                "projectUrls": "https://github.com/ngx-formly/ngx-formly"
+            },
+            {
+                "projectUrls": "https://github.com/momotech/MLN"
+            },
+            {
+                "projectUrls": "https://github.com/NativeScript/nativescript-angular"
+            },
+            {
+                "projectUrls": "https://github.com/EddyVerbruggen/nativescript-plugin-firebase"
+            }
+        ]
+    },
+    {
+        "topicUrls": "https://github.com/topics/jekyll",
+        "projects": [
+            {
+                "projectUrls": "https://github.com/jekyll/jekyll"
+            },
+            {
+                "projectUrls": "https://github.com/tabler/tabler"
+            },
+            {
+                "projectUrls": "https://github.com/mmistakes/minimal-mistakes"
+            },
+            {
+                "projectUrls": "https://github.com/primer/octicons"
+            },
+            {
+                "projectUrls": "https://github.com/daattali/beautiful-jekyll"
+            },
+            {
+                "projectUrls": "https://github.com/poole/hyde"
+            },
+            {
+                "projectUrls": "https://github.com/pmarsceill/just-the-docs"
+            },
+            {
+                "projectUrls": "https://github.com/poole/lanyon"
+            }
+        ]
+    },
+    {
+        "topicUrls": "https://github.com/topics/linux",
+        "projects": [
+            {
+                "projectUrls": "https://github.com/jlevy/the-art-of-command-line"
+            },
+            {
+                "projectUrls": "https://github.com/nodejs/node"
+            },
+            {
+                "projectUrls": "https://github.com/atom/atom"
+            },
+            {
+                "projectUrls": "https://github.com/trimstray/the-book-of-secret-knowledge"
+            },
+            {
+                "projectUrls": "https://github.com/vercel/hyper"
+            },
+            {
+                "projectUrls": "https://github.com/alacritty/alacritty"
+            },
+            {
+                "projectUrls": "https://github.com/GitSquared/edex-ui"
+            },
+            {
+                "projectUrls": "https://github.com/FiloSottile/mkcert"
+            }
+        ]
+    }
+]
